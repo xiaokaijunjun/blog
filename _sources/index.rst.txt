@@ -11,8 +11,6 @@ Welcome to Python's documentation!
    
    /test/aa
    bb
-   cc
-   dd  
 
 	
 
